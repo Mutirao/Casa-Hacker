@@ -4,4 +4,5 @@ Uma casa do tamanho do mundo. Um teto para abrigar vontades, inquietações, lut
 
 ## Objetivo
 
-Arrochar o nó.
+Geral: Arrochar o nó.
+Específicos: botar para frente os projetos do Mapa Cultural, Rede Livre e Login Cidadão.
